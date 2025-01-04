@@ -1,0 +1,11 @@
+-r common.txt
+black
+ruff
+mypy
+tox
+pytest
+pytest-randomly
+pytest-cov
+pytest-structlog
+factory-boy
+sqlacodegen_v2

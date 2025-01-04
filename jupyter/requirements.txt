@@ -1,0 +1,13 @@
+jupyterlab
+numpy
+pandas[performance]
+polars
+scipy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+requests
+python-dotenv
+psycopg
+sqlalchemy
